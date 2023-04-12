@@ -18,6 +18,7 @@ This repository contains a sample Flask application designed to be deployed on B
 ```bash
 git clone https://github.com/yourusername/sample-flask-project-back4app-containers.git
 cd sample-flask-project-back4app-containers
+```
 
 2. Install the required dependencies using pip.
 
