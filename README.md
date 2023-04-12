@@ -24,6 +24,7 @@ cd sample-flask-project-back4app-containers
 
 ```bash
 pip install -r requirements.txt
+```
 
 3. Run the Flask application locally.
 
@@ -31,6 +32,7 @@ pip install -r requirements.txt
 export FLASK_APP=app.py
 export FLASK_ENV=development
 flask run
+```
 
 Your Flask application should now be running locally at http://127.0.0.1:5000/.
 
